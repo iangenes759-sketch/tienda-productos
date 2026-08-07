@@ -1107,9 +1107,24 @@
     let currentLightboxIndex = 0;
 
     // Normalizar imágenes al cargar base de datos
-    if (localStorage.getItem('store_db_v5')) {
-      dbProducts = JSON.parse(localStorage.getItem('store_db_v5'));
+async function loadDB() {
+  try {
+    const res = await fetch('/productos.json?t=' + Date.now());
+    const data = await res.json();
+
+    if (data.minorista && data.mayorista) {
+      dbProducts = data;
     }
+
+    renderProducts();
+
+    if (adminLogged) {
+      renderAdminPanel();
+    }
+  } catch (err) {
+    console.error('Error cargando productos:', err);
+  }
+}
     
     // Función auxiliar para obtener un arreglo de imágenes seguro
     function getProductImages(prod) {
@@ -1120,9 +1135,22 @@
       return ['https://via.placeholder.com/400x400?text=Sin+Imagen'];
     }
 
-    function saveDB() {
-      localStorage.setItem('store_db_v5', JSON.stringify(dbProducts));
-    }
+async function saveDB() {
+  try {
+    await fetch('/.netlify/functions/save-products', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(dbProducts)
+    });
+
+    console.log('Productos guardados');
+  } catch (err) {
+    console.error('Error guardando:', err);
+    alert('Error al guardar cambios');
+  }
+}
 
     function selectStore(mode) {
       currentMode = mode;
@@ -1625,6 +1653,7 @@
       document.getElementById('new-prod-file').value = '';
       alert('¡Producto agregado con éxito!');
     }
+    loadDB();
   </script>
 </body>
 </html>
