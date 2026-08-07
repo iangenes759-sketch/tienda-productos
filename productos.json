@@ -81,13 +81,14 @@
     },
     {
       "id": "M3",
-      "name": "Caja x24 Fragancia C",
+      "name": "Caja De Al Haramain Amber Oud",
       "basePrice": 57600,
       "stock": 10,
       "images": [
         "caja3.png"
       ],
-      "desc": "Caja x24 unidades surtidas o fragancia única."
+      "desc": "Caja x24 Unidades 🍍🍋🪵 Intenso y refinado, con notas frutales, cítricas y amaderadas que destacan por su gran presencia. ⏱️ Duración: 8 a 12 horas.",
+      "image": "caja3.png"
     },
     {
       "id": "M4",
