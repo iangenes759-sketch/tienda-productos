@@ -2,18 +2,23 @@
   "minorista": [
     {
       "id": "m1",
-      "name": "Perfume Árabe #1 (Tubito)",
+      "name": "pepe",
       "price": 5000,
       "stock": 20,
-      "images": ["perfume1.jpeg"],
-      "desc": "Aroma fresco, elegante y de alta fijación en piel. Presentación ideal para bolsillo o bolso."
+      "images": [
+        "perfume1.jpeg"
+      ],
+      "desc": "Aroma fresco, elegante y de alta fijación en piel. Presentación ideal para bolsillo o bolso.",
+      "image": "perfume1.jpeg"
     },
     {
       "id": "m2",
       "name": "Perfume Árabe #2 (Tubito)",
       "price": 5000,
       "stock": 20,
-      "images": ["perfume2.jpeg"],
+      "images": [
+        "perfume2.jpeg"
+      ],
       "desc": "Notas amaderadas y especiadas. Duración prolongada de más de 12 horas."
     },
     {
@@ -21,7 +26,9 @@
       "name": "Perfume Árabe #3 (Tubito)",
       "price": 5000,
       "stock": 20,
-      "images": ["perfume3.jpeg"],
+      "images": [
+        "perfume3.jpeg"
+      ],
       "desc": "Fragancia sofisticada, tono árabe-oriental intenso."
     },
     {
@@ -29,7 +36,9 @@
       "name": "Perfume Árabe #4 (Tubito)",
       "price": 5000,
       "stock": 20,
-      "images": ["perfume4.jpeg"],
+      "images": [
+        "perfume4.jpeg"
+      ],
       "desc": "Fragancia intensa, notas oscuras con toque dulce premium."
     },
     {
@@ -37,7 +46,9 @@
       "name": "Perfume Árabe #5 (Tubito)",
       "price": 5000,
       "stock": 20,
-      "images": ["perfume5.jpeg"],
+      "images": [
+        "perfume5.jpeg"
+      ],
       "desc": "Edición especial, aroma envolvente y persistente."
     }
   ],
@@ -47,7 +58,9 @@
       "name": "Caja x24 Fragancia A",
       "basePrice": 57600,
       "stock": 10,
-      "images": ["caja1.png"],
+      "images": [
+        "caja1.png"
+      ],
       "desc": "Caja cerrada por 24 unidades de tubitos perfume. Formato listo para venta minorista."
     },
     {
@@ -55,7 +68,9 @@
       "name": "Caja x24 Fragancia B",
       "basePrice": 57600,
       "stock": 10,
-      "images": ["caja2.png"],
+      "images": [
+        "caja2.png"
+      ],
       "desc": "Caja cerrada por 24 unidades. Excelente rentabilidad comercial."
     },
     {
@@ -63,7 +78,9 @@
       "name": "Caja x24 Fragancia C",
       "basePrice": 57600,
       "stock": 10,
-      "images": ["caja3.png"],
+      "images": [
+        "caja3.png"
+      ],
       "desc": "Caja x24 unidades surtidas o fragancia única."
     },
     {
@@ -71,7 +88,9 @@
       "name": "Caja x24 Fragancia D",
       "basePrice": 57600,
       "stock": 10,
-      "images": ["caja4.png"],
+      "images": [
+        "caja4.png"
+      ],
       "desc": "Caja x24 unidades fragancia intensa."
     },
     {
@@ -79,7 +98,9 @@
       "name": "Caja x24 Fragancia E",
       "basePrice": 57600,
       "stock": 10,
-      "images": ["caja5.png"],
+      "images": [
+        "caja5.png"
+      ],
       "desc": "Caja x24 unidades edición especial."
     }
   ]
