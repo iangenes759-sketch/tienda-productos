@@ -92,13 +92,14 @@
     },
     {
       "id": "M4",
-      "name": "Caja x24 Fragancia D",
+      "name": "Caja De Maison Alhambra Heavenly Water",
       "basePrice": 57600,
       "stock": 10,
       "images": [
         "caja4.png"
       ],
-      "desc": "Caja x24 unidades fragancia intensa."
+      "desc": "Caja x24 Unidades 🍊💧 Fresco, limpio y versátil, con notas cítricas y acuáticas que transmiten energía y frescura. ⏱️ Duración: 6 a 8 horas.",
+      "image": "caja4.png"
     },
     {
       "id": "M5",
