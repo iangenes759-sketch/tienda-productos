@@ -70,13 +70,14 @@
     },
     {
       "id": "M2",
-      "name": "Caja x24 Fragancia B",
+      "name": "Caja De Rave Now Black",
       "basePrice": 57600,
       "stock": 10,
       "images": [
         "caja2.png"
       ],
-      "desc": "Caja cerrada por 24 unidades. Excelente rentabilidad comercial."
+      "desc": "Caja x24 Unidades 🍍🔥🪵 Moderno y atractivo, con notas de piña, manzana y maderas que dejan una impresión elegante. ⏱️ Duración: 7 a 10 horas",
+      "image": "caja2.png"
     },
     {
       "id": "M3",
