@@ -43,13 +43,14 @@
     },
     {
       "id": "m5",
-      "name": "Perfume Árabe #5 (Tubito)",
+      "name": "Lattafa Yara",
       "price": 5000,
       "stock": 20,
       "images": [
         "perfume5.jpeg"
       ],
-      "desc": "Edición especial, aroma envolvente y persistente."
+      "desc": "🌸🍦💖 Dulce y femenina, con flores tropicales, vainilla y almizcle para un aroma delicado y encantador. ⏱️ Duración: 6 a 8 horas.",
+      "image": "perfume5.jpeg"
     }
   ],
   "mayorista": [
