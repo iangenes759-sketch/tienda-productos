@@ -35,13 +35,14 @@
     },
     {
       "id": "m4",
-      "name": "Perfume Árabe #4 (Tubito)",
+      "name": "Rave Now Black",
       "price": 5000,
       "stock": 20,
       "images": [
         "perfume4.jpeg"
       ],
-      "desc": "Fragancia intensa, notas oscuras con toque dulce premium."
+      "desc": "🍍🔥🪵 Moderno y atractivo, con notas de piña, manzana y maderas que dejan una impresión elegante. ⏱️ Duración: 7 a 10 horas",
+      "image": "perfume4.jpeg"
     },
     {
       "id": "m5",
