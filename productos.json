@@ -2,13 +2,13 @@
   "minorista": [
     {
       "id": "m1",
-      "name": "pepe",
+      "name": "Lattafa Asad Zanzibar",
       "price": 5000,
       "stock": 20,
       "images": [
         "perfume1.jpeg"
       ],
-      "desc": "Aroma fresco, elegante y de alta fijación en piel. Presentación ideal para bolsillo o bolso.",
+      "desc": "🥥🌊 Fresco y sofisticado, con notas marinas, coco y vainilla que crean un aroma moderno y elegante. ⏱️ Duración: 6 a 8 horas.",
       "image": "perfume1.jpeg"
     },
     {
