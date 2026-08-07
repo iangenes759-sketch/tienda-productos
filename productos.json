@@ -13,13 +13,14 @@
     },
     {
       "id": "m2",
-      "name": "Perfume Árabe #2 (Tubito)",
+      "name": "Al Haramain Amber Oud",
       "price": 5000,
       "stock": 20,
       "images": [
         "perfume2.jpeg"
       ],
-      "desc": "Notas amaderadas y especiadas. Duración prolongada de más de 12 horas."
+      "desc": "🍍🍋🪵 Intenso y refinado, con notas frutales, cítricas y amaderadas que destacan por su gran presencia. ⏱️ Duración: 8 a 12 horas.",
+      "image": "perfume2.jpeg"
     },
     {
       "id": "m3",
