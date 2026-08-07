@@ -59,13 +59,14 @@
   "mayorista": [
     {
       "id": "M1",
-      "name": "Caja x24 Fragancia A",
+      "name": "Caja De Lattafa Yara",
       "basePrice": 57600,
       "stock": 10,
       "images": [
         "caja1.png"
       ],
-      "desc": "Caja cerrada por 24 unidades de tubitos perfume. Formato listo para venta minorista."
+      "desc": "Caja x24 Unidades 🌸🍦💖 Dulce y Unisex, con flores tropicales, vainilla y almizcle para un aroma delicado y encantador. ⏱️ Duración: 6 a 8 horas.",
+      "image": "caja1.png"
     },
     {
       "id": "M2",
