@@ -103,13 +103,14 @@
     },
     {
       "id": "M5",
-      "name": "Caja x24 Fragancia E",
+      "name": "Caja De Lattafa Asad Zanzibar",
       "basePrice": 57600,
       "stock": 10,
       "images": [
         "caja5.png"
       ],
-      "desc": "Caja x24 unidades edición especial."
+      "desc": "Caja x24 Unidades 🥥🌊 Fresco y sofisticado, con notas marinas, coco y vainilla que crean un aroma moderno y elegante. ⏱️ Duración: 6 a 8 horas.",
+      "image": "caja5.png"
     }
   ]
 }
