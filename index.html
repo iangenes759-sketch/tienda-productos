@@ -136,7 +136,15 @@ header {
        ========================================================= */
 nav.category-banner {
     position: sticky;
-    top: 95px;
+    top: 0;
+    z-index: 999;
+    background: #121212;
+    border-bottom: 1px solid var(--border-color);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    height: 58px;
+    display: flex;
+    align-items: center;
 }
     @media (min-width: 768px) {
       nav.category-banner {
@@ -925,9 +933,6 @@ nav.category-banner {
     z-index:1001;
 }
   .header{
-    position:sticky;
-    top:0;
-    z-index:1000;
     position:relative;
 }
   </style>
