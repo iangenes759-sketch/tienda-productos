@@ -1165,7 +1165,7 @@ async function saveDB() {
     function renderProducts() {
       const container = document.getElementById('products-container');
       container.innerHTML = '';
-      const items = dbProducts[currentMode];
+      const items = dbProducts[currentMode] || [];
       items.forEach(prod => {
         const images = getProductImages(prod);
         const card = document.createElement('div');
