@@ -111,7 +111,7 @@
     header {
       background: #000;
       border-bottom: 1px solid var(--border-color);
-      padding: 15px 10px;
+      padding: 20px 0px;
       text-align: center;
       position: sticky;
       top: 0;
@@ -138,6 +138,10 @@
        BANNER DE NAVEGACIÓN
        ========================================================= */
     nav.category-banner {
+      position: sticky;
+      top: 0;
+      z-index: 999;
+      background: #111;
       display: flex;
       justify-content: flex-start;
       gap: 10px;
@@ -565,6 +569,21 @@
       padding-bottom: 18px;
       margin-bottom: 20px;
     }
+    .instagram-link{
+    position:absolute;
+    right:30px;
+    top:30px;
+    color:white;
+    text-decoration:none;
+    font-size:14px;
+    letter-spacing:1px;
+    opacity:.8;
+    z-index:1000;
+}
+
+.instagram-link:hover{
+    opacity:1;
+}
     .cart-header-title {
       display: flex;
       align-items: center;
@@ -920,6 +939,9 @@
     <div>
       <span class="mode-badge" id="current-mode-badge">Minorista</span>
     </div>
+    <a href="https://instagram.com/TUUSUARIO" target="_blank" class="instagram-link">
+    📷 Instagram
+</a>
   </header>
 
   <!-- BANNER DE NAVEGACIÓN -->
