@@ -4,7 +4,7 @@
       "id": "m1",
       "name": "Lattafa Asad Zanzibar",
       "price": 5000,
-      "stock": 17,
+      "stock": 20,
       "images": [
         "perfume1.jpeg"
       ],
@@ -15,7 +15,7 @@
       "id": "m2",
       "name": "Al Haramain Amber Oud",
       "price": 5000,
-      "stock": 20,
+      "stock": 19,
       "images": [
         "perfume2.jpeg"
       ],
@@ -26,7 +26,7 @@
       "id": "m3",
       "name": "Maison Alhambra Heavenly Water",
       "price": 5000,
-      "stock": 20,
+      "stock": 19,
       "images": [
         "perfume3.jpeg"
       ],
@@ -48,7 +48,7 @@
       "id": "m5",
       "name": "Lattafa Yara",
       "price": 5000,
-      "stock": 20,
+      "stock": 19,
       "images": [
         "perfume5.jpeg"
       ],
