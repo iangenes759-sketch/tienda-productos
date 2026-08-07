@@ -4,7 +4,7 @@
       "id": "m1",
       "name": "Lattafa Asad Zanzibar",
       "price": 5000,
-      "stock": 16,
+      "stock": 20,
       "images": [
         "perfume1.jpeg"
       ],
@@ -61,7 +61,7 @@
       "id": "M1",
       "name": "Caja De Lattafa Yara",
       "basePrice": 57600,
-      "stock": 10,
+      "stock": 8,
       "images": [
         "caja1.png"
       ],
@@ -72,7 +72,7 @@
       "id": "M2",
       "name": "Caja De Rave Now Black",
       "basePrice": 57600,
-      "stock": 10,
+      "stock": 9,
       "images": [
         "caja2.png"
       ],
@@ -83,7 +83,7 @@
       "id": "M3",
       "name": "Caja De Al Haramain Amber Oud",
       "basePrice": 57600,
-      "stock": 10,
+      "stock": 9,
       "images": [
         "caja3.png"
       ],
@@ -94,7 +94,7 @@
       "id": "M4",
       "name": "Caja De Maison Alhambra Heavenly Water",
       "basePrice": 57600,
-      "stock": 10,
+      "stock": 9,
       "images": [
         "caja4.png"
       ],
@@ -105,7 +105,7 @@
       "id": "M5",
       "name": "Caja De Lattafa Asad Zanzibar",
       "basePrice": 57600,
-      "stock": 10,
+      "stock": 8,
       "images": [
         "caja5.png"
       ],
