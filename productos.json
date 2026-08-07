@@ -24,13 +24,14 @@
     },
     {
       "id": "m3",
-      "name": "Perfume Árabe #3 (Tubito)",
+      "name": "Maison Alhambra Heavenly Water",
       "price": 5000,
       "stock": 20,
       "images": [
         "perfume3.jpeg"
       ],
-      "desc": "Fragancia sofisticada, tono árabe-oriental intenso."
+      "desc": "🍊💧 Fresco, limpio y versátil, con notas cítricas y acuáticas que transmiten energía y frescura. ⏱️ Duración: 6 a 8 horas.",
+      "image": "perfume3.jpeg"
     },
     {
       "id": "m4",
